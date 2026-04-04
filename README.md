@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+I am an aspiring **Software Development Engineer** with a strong foundation in **Data Structures, Algorithms, and Data Science**. I specialize in building scalable and efficient full-stack web applications using the **MERN stack**, and I am actively exploring **Agentic AI** to create intelligent, automation-first systems.
 
-## Getting Started
+Having solved over **500+ algorithmic challenges** across various coding platforms, I bring a highly analytical and problem-solving-oriented mindset to software engineering.
 
-First, run the development server:
+## 🛠️ Tech Stack & Tools
 
+- **Frontend:** Next.js (App Router), React, TypeScript, Tailwind CSS, Framer Motion
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **AI Integration:** OpenAI API, Agentic Automation
+- **Other Core Skills:** Data Structures & Algorithms (C++/Java/Python), Data Science fundamentals
+
+## ✨ Key Features of This Portfolio
+
+- **Modern UI/UX:** Sleek glassmorphism aesthetics with dynamic background lighting.
+- **Smooth Animations:** Fully powered by Framer Motion for scroll reveals, hover effects, and transitions.
+- **Responsive Design:** Completely optimized for mobile and desktop viewing.
+- **Project Showcase:** Interactive grid presenting top AI & full-stack projects (*Next Round AI, GitLit, LiveCodeX*, etc.).
+- **Performance Optimized:** Static generation combined with precise Next.js App Router utilization.
+
+## 💻 Running the Project Locally
+
+To run this portfolio on your local machine, follow these steps:
+
+**1. Clone the repository:**
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/NerajRuwali/Portfolio.git
+cd Portfolio
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**2. Install dependencies:**
+```bash
+npm install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**3. Run the development server:**
+```bash
+npm run dev
+```
+Navigate to `http://localhost:3000` to interact with the application.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📂 Project Structure
 
-## Learn More
+```text
+├── app/
+│   ├── components/       # Reusable UI components (Hero, About, Projects, Skills, Contact)
+│   ├── globals.css       # Global Tailwind CSS configurations
+│   ├── layout.tsx        # Main application layout wrapper
+│   └── page.tsx          # Homepage rendering all sections
+├── public/               # Static assets & images
+├── tailwind.config.js    # Tailwind theme and plugin setup
+└── package.json          # Project dependencies and scripts
+```
 
-To learn more about Next.js, take a look at the following resources:
+## 📬 Contact Let's Connect!
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+If you want to discuss technology, share ideas, or talk about exciting opportunities, feel free to reach out.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Email:** nanuruwali00@gmail.com
+- **GitHub:** [NerajRuwali](https://github.com/NerajRuwali)
