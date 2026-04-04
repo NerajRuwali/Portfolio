@@ -1,3 +1,7 @@
+# 🚀 Neeraj Ruwali – Portfolio
+
+Live: https://portfolio-nu-sooty-29.vercel.app
+
 I am an aspiring **Software Development Engineer** with a strong foundation in **Data Structures, Algorithms, and Data Science**. I specialize in building scalable and efficient full-stack web applications using the **MERN stack**, and I am actively exploring **Agentic AI** to create intelligent, automation-first systems.
 
 Having solved over **500+ algorithmic challenges** across various coding platforms, I bring a highly analytical and problem-solving-oriented mindset to software engineering.
