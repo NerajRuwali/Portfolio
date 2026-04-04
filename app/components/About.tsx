@@ -54,13 +54,13 @@ export default function About() {
                     {/* Bio */}
                     <div className="space-y-6 text-center">
                         <p className="text-lg sm:text-xl text-gray-300 leading-relaxed font-inter max-w-3xl mx-auto">
-                            I&apos;m a third-year B.Tech student who loves coding and working with new tech stacks. From building sleek web applications to solving complex algorithms, I enjoy exploring different technologies and constantly challenging myself. I have solved more than{' '}
-                            <span className="text-emerald-400 font-bold">500 questions</span>{' '}
-                            across various coding platforms, sharpening my problem-solving skills along the way.
+                            I am an aspiring Software Development Engineer with a strong foundation in Data Structures, Algorithms, and Data Science. I specialize in building scalable and efficient applications using the MERN stack and exploring Agentic AI to create intelligent systems.
                         </p>
 
                         <p className="text-lg sm:text-xl text-gray-300 leading-relaxed font-inter max-w-3xl mx-auto">
-                            Apart from coding, I love learning about emerging technologies and experimenting with new frameworks. And when I&apos;m not glued to my screen, I&apos;m probably lost in a gripping drama or brainstorming my next project!
+                            Apart from coding, I love learning about emerging technologies and experimenting with new frameworks. I have solved more than{' '}
+                            <span className="text-emerald-400 font-bold">500 questions</span>{' '}
+                            across various coding platforms, sharpening my problem-solving skills along the way.
                         </p>
                     </div>
 
