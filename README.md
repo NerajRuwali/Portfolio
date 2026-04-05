@@ -1,4 +1,4 @@
-# 🚀 Neeraj Ruwali – Portfolio
+# Neeraj Ruwali – Portfolio
 
 Live: https://portfolio-nu-sooty-29.vercel.app
 
