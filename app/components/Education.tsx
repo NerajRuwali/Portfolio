@@ -5,7 +5,7 @@ import { FaGraduationCap, FaMapMarkerAlt, FaCalendarAlt } from 'react-icons/fa';
 
 const educationData = [
     {
-        degree: 'B.Tech in Computer Science and Engineering',
+        degree: 'B.Tech(Hons) in Computer Science and Engineering',
         specialisation: 'Specialisation in Data Science',
         institution: 'Quantum University, Roorkee',
         date: 'August 2023 - July 2027',

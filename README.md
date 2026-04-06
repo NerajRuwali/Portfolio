@@ -1,9 +1,24 @@
-# Neeraj Ruwali – Portfolio
+# 🚀 Neeraj Ruwali - Personal Portfolio
 
-Live: https://portfolio-nu-sooty-29.vercel.app
+<div align="center">
+  <img src="public/hero.jpg" alt="Neeraj Ruwali" width="100%" />
+
+  **Aspiring Software Development Engineer | MERN Stack Developer | AI Enthusiast**
+
+  [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat&logo=next.js)](https://nextjs.org/)
+  [![React](https://img.shields.io/badge/React-19-blue?style=flat&logo=react)](https://react.dev/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat&logo=typescript)](https://www.typescriptlang.org/)
+  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
+  [![Framer Motion](https://img.shields.io/badge/Framer_Motion-12-black?style=flat&logo=framer)](https://www.framer.com/motion/)
+
+  [View Live Demo](https://portfolio-nu-sooty-29.vercel.app)
+</div>
+
+---
+
+## ⚡ About Me
 
 I am an aspiring **Software Development Engineer** with a strong foundation in **Data Structures, Algorithms, and Data Science**. I specialize in building scalable and efficient full-stack web applications using the **MERN stack**, and I am actively exploring **Agentic AI** to create intelligent, automation-first systems.
-
 Having solved over **500+ algorithmic challenges** across various coding platforms, I bring a highly analytical and problem-solving-oriented mindset to software engineering.
 
 ## 🛠️ Tech Stack & Tools
@@ -62,3 +77,7 @@ If you want to discuss technology, share ideas, or talk about exciting opportuni
 
 - **Email:** nanuruwali00@gmail.com
 - **GitHub:** [NerajRuwali](https://github.com/NerajRuwali)
+---
+<div align="center">
+  <i>Designed and Built by <b>Neeraj Ruwali</b></i>
+</div>
