@@ -26,7 +26,7 @@ export default function Navbar() {
             }`}>
             <div className="mx-auto max-w-7xl px-6 py-4">
                 <div className="flex items-center justify-between">
-                    <div className="text-xl font-black tracking-wider bg-gradient-to-r from-emerald-400 via-teal-500 to-cyan-500 bg-clip-text text-transparent hover:scale-105 transition-transform duration-300 cursor-pointer font-poppins">
+                    <div className="text-xl font-black tracking-wider bg-gradient-to-r from-cyan-400 via-teal-500 to-cyan-500 bg-clip-text text-transparent hover:scale-105 transition-transform duration-300 cursor-pointer font-poppins">
                         Neeraj Ruwali
                     </div>
                     <div className="hidden sm:flex items-center gap-8 text-sm font-medium font-inter">
@@ -34,10 +34,10 @@ export default function Navbar() {
                             <a
                                 key={link.href}
                                 href={link.href}
-                                className="text-slate-200 hover:text-emerald-300 transition-colors duration-200 relative group"
+                                className="text-slate-200 hover:text-cyan-300 transition-colors duration-200 relative group"
                             >
                                 {link.label}
-                                <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-gradient-to-r from-emerald-400 to-cyan-500 group-hover:w-full transition-all duration-300" />
+                                <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-gradient-to-r from-cyan-400 to-cyan-500 group-hover:w-full transition-all duration-300" />
                             </a>
                         ))}
                     </div>

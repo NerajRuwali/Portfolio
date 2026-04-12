@@ -35,8 +35,8 @@ const educationData = [
 
 export default function Education() {
     return (
-        <section id="education" className="relative py-24 px-6 sm:px-10 lg:px-16 bg-black overflow-hidden">
-            <div className="absolute inset-0 bg-gradient-to-b from-black via-slate-950 to-black pointer-events-none" />
+        <section id="education" className="relative py-24 px-6 sm:px-10 lg:px-16 overflow-hidden">
+            <div className="absolute inset-0 bg-black/40 backdrop-blur-sm pointer-events-none" />
             <div className="absolute top-16 left-10 w-72 h-72 rounded-full bg-violet-500/10 blur-3xl animate-pulse" />
             <div className="absolute bottom-16 right-10 w-72 h-72 rounded-full bg-emerald-500/10 blur-3xl animate-pulse" style={{ animationDelay: '0.8s' }} />
 

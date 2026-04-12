@@ -4,8 +4,8 @@ import { motion } from 'framer-motion';
 
 export default function Contact() {
     return (
-        <section id="contact" className="relative min-h-screen py-20 px-6 sm:px-10 lg:px-16 bg-slate-900 text-white overflow-hidden">
-            <div className="absolute inset-0 bg-gradient-to-br from-slate-900 via-black to-slate-950 pointer-events-none" />
+        <section id="contact" className="relative min-h-screen py-20 px-6 sm:px-10 lg:px-16 text-white overflow-hidden">
+            <div className="absolute inset-0 bg-black/40 backdrop-blur-sm pointer-events-none" />
             <div className="absolute -top-20 -left-20 w-96 h-96 rounded-full bg-emerald-500/10 blur-3xl" />
             <div className="absolute -bottom-20 -right-20 w-96 h-96 rounded-full bg-cyan-500/10 blur-3xl" />
 
