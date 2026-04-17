@@ -110,7 +110,7 @@ export default function ResumeSection() {
                     transition={{ duration: 0.8, delay: 0.4 }}
                     className="text-xs text-gray-600 font-inter"
                 >
-                    Last updated · April 2025 · PDF
+                    Last updated · April 2026 · PDF
                 </motion.p>
             </div>
         </section>
