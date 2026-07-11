@@ -14,6 +14,15 @@ const projects = [
         featured: true,
     },
     {
+        title: 'CredPilot',
+        description: 'A premium fintech dashboard featuring a 60-second eligibility analysis engine, interactive EMI simulator, and real-time risk profiling for loan optimization.',
+        techStack: ['React', 'Tailwind CSS', 'Framer Motion', 'Recharts', 'React Router'],
+        githubUrl: 'https://github.com/NerajRuwali/CredPilot',
+        liveUrl: 'https://credpilot.vercel.app',
+        imageUrl: '/projects/credpilot.png',
+        featured: true,
+    },
+    {
         title: 'GitLit',
         description: 'GitLit is a AI Powered full-stack web application that provides detailed insights into GitHub repositories and developer activity.',
         techStack: ['React', 'Node.js', 'Express', 'Tailwind CSS', 'OpenAI', 'GitHub Rest API'],
@@ -89,7 +98,7 @@ export default function Projects() {
                     transition={{ staggerChildren: 0.12 }}
                     className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"
                 >
-                    {projects.slice(0, 6).map((project, index) => (
+                    {projects.map((project, index) => (
                         <motion.div
                             key={project.title}
                             variants={{
