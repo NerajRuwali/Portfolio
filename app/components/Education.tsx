@@ -10,7 +10,7 @@ const educationData = [
         institution: 'Quantum University, Roorkee',
         date: 'August 2023 - July 2027',
         location: 'Roorkee, Uttarakhand',
-        description: "Currently pursuing Bachelor's in Computer Science with a CGPA of 9.10/10. Focusing on software engineering fundamentals and full-stack development.",
+        description: "Currently pursuing Bachelor's in Computer Science with a CGPA of 8.87/10. Focusing on software engineering fundamentals and full-stack development.",
         current: true,
     },
     {
