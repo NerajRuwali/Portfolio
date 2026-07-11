@@ -59,7 +59,7 @@ export default function About() {
 
                         <p className="text-lg sm:text-xl text-gray-300 leading-relaxed font-inter max-w-3xl mx-auto">
                             Apart from coding, I love learning about emerging technologies and experimenting with new frameworks. I have solved more than{' '}
-                            <span className="text-cyan-400 font-bold">500 questions</span>{' '}
+                            <span className="text-cyan-400 font-bold">400+ questions</span>{' '}
                             across various coding platforms, sharpening my problem-solving skills along the way.
                         </p>
                     </div>

@@ -4,11 +4,11 @@ import {
     SiCplusplus, SiJavascript, SiPython, SiMysql,
     SiHtml5, SiCss, SiReact, SiNodedotjs, SiExpress, SiNextdotjs, SiTailwindcss,
     SiFastapi,
-    SiMongodb, SiPostgresql, SiRedis,
+    SiMongodb, SiPostgresql,
     SiDocker, SiGit, SiGithub, SiPostman, SiVercel, SiRender,
     SiNumpy, SiPandas, SiScikitlearn, SiTensorflow, SiKeras, SiJupyter
 } from 'react-icons/si';
-import { FaJava, FaAws } from 'react-icons/fa';
+import { FaJava } from 'react-icons/fa';
 import { 
     FiServer, FiActivity, FiLock, FiShield, 
     FiGitBranch, FiLink, FiShuffle, FiCpu,
@@ -66,13 +66,11 @@ const skillCategories: SkillCategory[] = [
             { name: 'MongoDB', icon: SiMongodb, color: '#47A248' },
             { name: 'PostgreSQL', icon: SiPostgresql, color: '#4169E1' },
             { name: 'MySQL', icon: SiMysql, color: '#4479A1' },
-            { name: 'Redis', icon: SiRedis, color: '#DC382D' },
         ],
     },
     {
         category: 'Cloud & DevOps',
         skills: [
-            { name: 'AWS (EC2, S3)', icon: FaAws, color: '#FF9900' },
             { name: 'Docker', icon: SiDocker, color: '#2496ED' },
             { name: 'CI/CD Pipeline', icon: FiGitBranch, color: '#F05032' },
             { name: 'Git', icon: SiGit, color: '#F05032' },
